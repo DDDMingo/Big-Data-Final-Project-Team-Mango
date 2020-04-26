@@ -1,2 +1,2 @@
 # Big-Data-Final-Project-Team-Mango
-Big-Data-Project
+This is our Big-Data-Project focusing on analyzing the mobility data.
