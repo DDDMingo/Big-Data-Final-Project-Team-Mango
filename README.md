@@ -5,7 +5,7 @@ Group Name:
 Team Mango 
  
 Project Participants:
-Franklin Geeng
-Nikolai Sannikov 
+Franklin Geeng,
+Nikolai Sannikov ,
 Yuxiang Shi
  
